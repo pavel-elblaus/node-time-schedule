@@ -1,27 +1,23 @@
 {
-  "name": "@pavel-elblaus/node-time-schedule",
+  "name": "node-time-schedule",
   "version": "1.0.0",
   "description": "Library for scheduling working/non-working time intervals",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavel-elblaus/node-time-schedule.git"
+    "url": "git+https://github.com/pavel-elblaus/node-time-schedule.git"
   },
   "keywords": [
     "time",
     "schedule"
   ],
-  "author": {
-    "name" : "Pavel Elblaus",
-    "email" : "pavel@elblaus.ru",
-    "url" : "https://elblaus.ru/"
-  },
+  "author": "Pavel Elblaus <pavel@elblaus.ru> (https://elblaus.ru/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pavel-elblaus/node-time-schedule/issues"
   },
   "homepage": "https://github.com/pavel-elblaus/node-time-schedule",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
