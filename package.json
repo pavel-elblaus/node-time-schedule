@@ -1,5 +1,5 @@
 {
-  "name": "node-time-schedule",
+  "name": "@PavelElblaus/node-time-schedule",
   "version": "1.0.0",
   "description": "Library for scheduling working/non-working time intervals",
   "main": "index.js",
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/PavelElblaus/node-time-schedule/issues"
   },
-  "homepage": "https://github.com/PavelElblaus/node-time-schedule",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/PavelElblaus/node-time-schedule"
 }
