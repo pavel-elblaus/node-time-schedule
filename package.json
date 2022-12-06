@@ -1,6 +1,6 @@
 {
   "name": "node-time-schedule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for scheduling working/non-working time intervals",
   "main": "index.js",
   "repository": {
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/pavel-elblaus/node-time-schedule",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   }
 }
